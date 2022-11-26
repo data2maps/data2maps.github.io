@@ -2507,16 +2507,16 @@
   },
   {
     "DATE": "1/19/2022",
-    "SCHOOL": "Oliver Citywide Academy",
-    "LATITUDE": "Pittsburgh",
-    "LONGITUDE": "PA",
-    "DEATHS": 40.464941
+    "SCHOOL": "Oliver Citywide Academy, Pittsburgh, PA",
+    "LATITUDE": 40.464941,
+    "LONGITUDE": -80.024376,
+    "DEATHS": 1
   },
   {
     "DATE": "2/1/2022",
-    "SCHOOL": "Bridgewater College",
-    "LATITUDE": "Bridgewater",
-    "LONGITUDE": "VA",
-    "DEATHS": 38.378852
+    "SCHOOL": "Bridgewater College, Bridgewater, VA",
+    "LATITUDE": "38.378852",
+    "LONGITUDE": -78.969235,
+    "DEATHS": 2
   }
 ]
