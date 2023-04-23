@@ -2507,163 +2507,156 @@
   },
   {
     "DATE": "1/19/2022",
-    "SCHOOL": "Oliver Citywide Academy",
-    "LATITUDE": "Pittsburgh",
-    "LONGITUDE": "PA",
-    "DEATHS": 40.464941
-  },
-  {
-    "DATE": "1/19/2022",
-    "SCHOOL": "Oliver Citywide Academy",
-    "LATITUDE": "Pittsburg",
-    "LONGITUDE": "PA",
-    "DEATHS": 40.464172
+    "SCHOOL": "Oliver Citywide Academy, Pittsburg, PA",
+    "LATITUDE": 40.464172,
+    "LONGITUDE": -80.024826,
+    "DEATHS": 1
   },
   {
     "DATE": "1/29/2022",
-    "SCHOOL": "Beloit Memorial High School",
-    "LATITUDE": "Beloit",
-    "LONGITUDE": "WI",
-    "DEATHS": 42.513813
+    "SCHOOL": "Beloit Memorial High School, Beloit, WI",
+    "LATITUDE": 42.513813,
+    "LONGITUDE": -89.037109,
+    "DEATHS": 1
   },
   {
     "DATE": "2/1/2022",
-    "SCHOOL": "Bridgewater College",
-    "LATITUDE": "Bridgewater",
-    "LONGITUDE": "VA",
-    "DEATHS": 38.378852
+    "SCHOOL": "Bridgewater College, Bridgewater, VA",
+    "LATITUDE": 38.378852,
+    "LONGITUDE": -78.969235,
+    "DEATHS": 2
   },
   {
     "DATE": "2/1/2022",
-    "SCHOOL": "South Education Center",
-    "LATITUDE": "Richfield",
-    "LONGITUDE": "MN",
-    "DEATHS": 44.86781
+    "SCHOOL": "South Education Center, Richfield, MN",
+    "LATITUDE": 44.86781,
+    "LONGITUDE": -93.31093,
+    "DEATHS": 1
   },
   {
     "DATE": "3/7/2022",
-    "SCHOOL": "East High School",
-    "LATITUDE": "Des Moines",
-    "LONGITUDE": "IA",
-    "DEATHS": 41.596939
+    "SCHOOL": "East High School, Des Moines, IA",
+    "LATITUDE": 41.596939,
+    "LONGITUDE": -93.599998,
+    "DEATHS": 1
   },
   {
     "DATE": "3/15/2022",
-    "SCHOOL": "Eisenhower High School",
-    "LATITUDE": "Yakima",
-    "LONGITUDE": "WA",
-    "DEATHS": 46.590279
+    "SCHOOL": "Eisenhower High School, Yakima, WA",
+    "LATITUDE": 46.590279,
+    "LONGITUDE": -120.564438,
+    "DEATHS": 1
   },
   {
     "DATE": "3/31/2022",
-    "SCHOOL": "Tanglewood Middle School",
-    "LATITUDE": "Greenville",
-    "LONGITUDE": "SC",
-    "DEATHS": 34.82421
+    "SCHOOL": "Tanglewood Middle School, Greenville, SC",
+    "LATITUDE": 34.82421,
+    "LONGITUDE": -82.46876,
+    "DEATHS": 1
   },
   {
     "DATE": "5/24/2022",
-    "SCHOOL": "Robb Elementary School",
-    "LATITUDE": "Uvalde",
-    "LONGITUDE": "TX",
-    "DEATHS": 29.19863
+    "SCHOOL": "Robb Elementary School, Uvalde, TX",
+    "LATITUDE": 29.19863,
+    "LONGITUDE": -99.78915,
+    "DEATHS": 21
   },
   {
     "DATE": "9/2/2022",
-    "SCHOOL": "Mergenthaler Vocational-Technical High School",
-    "LATITUDE": "Baltimore",
-    "LONGITUDE": "MD",
-    "DEATHS": 39.33239
+    "SCHOOL": "Mergenthaler Vocational-Technical High School, Baltimore, MD",
+    "LATITUDE": 39.33239,
+    "LONGITUDE": -76.58896,
+    "DEATHS": 1
   },
   {
     "DATE": "9/27/2022",
-    "SCHOOL": "Roxborough High School",
-    "LATITUDE": "Philadelphia",
-    "LONGITUDE": "PA",
-    "DEATHS": 40.037998
+    "SCHOOL": "Roxborough High School, Philadelphia, PA",
+    "LATITUDE": 40.037998,
+    "LONGITUDE": -75.222839,
+    "DEATHS": 1
   },
   {
     "DATE": "9/28/2022",
-    "SCHOOL": "Rudsdale High School",
-    "LATITUDE": "Oakland",
-    "LONGITUDE": "CA",
-    "DEATHS": 37.76576
+    "SCHOOL": "Rudsdale High School, Oakland, CA",
+    "LATITUDE": 37.76576,
+    "LONGITUDE": -122.154,
+    "DEATHS": 1
   },
   {
     "DATE": "9/30/2022",
-    "SCHOOL": "McLain High School for Science and Technology\tTulsa",
-    "LATITUDE": "Tulsa",
-    "LONGITUDE": "OK",
-    "DEATHS": 36.22529
+    "SCHOOL": "McLain High School for Science and Technology\tTulsa, Tulsa, OK",
+    "LATITUDE": 36.22529,
+    "LONGITUDE": -95.9733,
+    "DEATHS": 1
   },
   {
     "DATE": "10/1/2022",
-    "SCHOOL": "Westover Hills Elementary School",
-    "LATITUDE": "Richmond",
-    "LONGITUDE": "VA",
-    "DEATHS": 37.5213
+    "SCHOOL": "Westover Hills Elementary School, Richmond, VA",
+    "LATITUDE": 37.5213,
+    "LONGITUDE": -77.49254,
+    "DEATHS": 1
   },
   {
     "DATE": "10/2/2022",
-    "SCHOOL": "Central Visual and Performing Arts High School",
-    "LATITUDE": "St Louis",
-    "LONGITUDE": "MO",
-    "DEATHS": 38.604599
+    "SCHOOL": "Central Visual and Performing Arts High School, St Louis, MO",
+    "LATITUDE": 38.604599,
+    "LONGITUDE": -90.270897,
+    "DEATHS": 2
   },
   {
     "DATE": "10/2/2022",
-    "SCHOOL": "Grant Union High School",
-    "LATITUDE": "Sacramento",
-    "LONGITUDE": "CA",
-    "DEATHS": 38.635677
+    "SCHOOL": "Grant Union High School, Sacramento, CA",
+    "LATITUDE": 38.635677,
+    "LONGITUDE": -121.434746,
+    "DEATHS": 1
   },
   {
     "DATE": "11/1/2022",
-    "SCHOOL": "Jones High School",
-    "LATITUDE": "Orlando",
-    "LONGITUDE": "FL",
-    "DEATHS": 28.53319
+    "SCHOOL": "Jones High School, Orlando, FL",
+    "LATITUDE": 28.53319,
+    "LONGITUDE": -81.40134,
+    "DEATHS": 1
   },
   {
     "DATE": "11/8/2022",
-    "SCHOOL": "Ingraham High School",
-    "LATITUDE": "Seattle WA",
-    "LONGITUDE": 47.725842,
-    "DEATHS": -122.337311
+    "SCHOOL": "Ingraham High School, Seattle WA",
+    "LATITUDE": 47.725842,
+    "LONGITUDE": -122.337311,
+    "DEATHS": 1
   },
   {
     "DATE": "12/1/2022",
-    "SCHOOL": "Benito Juarez High School",
-    "LATITUDE": "Chicago",
-    "LONGITUDE": "IL",
-    "DEATHS": 41.853001
+    "SCHOOL": "Benito Juarez High School, Chicago, IL",
+    "LATITUDE": 41.853001,
+    "LONGITUDE": -87.664574,
+    "DEATHS": 2
   },
   {
     "DATE": "12/3/2022",
-    "SCHOOL": "South Division High School",
-    "LATITUDE": "Milwaukee",
-    "LONGITUDE": "WI",
-    "DEATHS": 43.013435
+    "SCHOOL": "South Division High School, Milwaukee, WI",
+    "LATITUDE": 43.013435,
+    "LONGITUDE": -87.930603,
+    "DEATHS": 1
   },
   {
     "DATE": "3/7/2023",
-    "SCHOOL": "Thomas Carr Howe High School",
-    "LATITUDE": "Indianapolis",
-    "LONGITUDE": "IN",
-    "DEATHS": 39.76833
+    "SCHOOL": "Thomas Carr Howe High School, Indianapolis, IN",
+    "LATITUDE": 39.76833,
+    "LONGITUDE": -86.08549,
+    "DEATHS": 1
   },
   {
     "DATE": "3/20/2023",
-    "SCHOOL": "Lamar High School",
-    "LATITUDE": "Arlington",
-    "LONGITUDE": "TX",
-    "DEATHS": 32.76398
+    "SCHOOL": "Lamar High School, Arlington, TX",
+    "LATITUDE": 32.76398,
+    "LONGITUDE": -97.12514,
+    "DEATHS": 1
   },
   {
     "DATE": "3/27/2023",
-    "SCHOOL": "The Covenant School",
-    "LATITUDE": "Nashville",
-    "LONGITUDE": "TN",
-    "DEATHS": 36.09307
+    "SCHOOL": "The Covenant School, Nashville, TN",
+    "LATITUDE": 36.09307,
+    "LONGITUDE": -86.82536,
+    "DEATHS": 6
   }
 ]
