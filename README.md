@@ -1,3 +1,1 @@
-# school-shootings
-
-https://school-shootings.pages.dev/
+https://data2maps.pages.dev/
