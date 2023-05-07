@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>School Shootings</title>
+    <title></title>
     <meta charset="utf-8" />
     <script type="text/javascript">
         (function (c, l, a, r, i, t, y) {
@@ -19,7 +19,11 @@
 
     <script type='text/javascript'>
         function GetMap() {
-            var url = new URL(window.location).searchParams.get("d") + ".json";
+            var d = new URL(window.location).searchParams.get("d");
+            var url = d + ".json";
+
+            document.title = d.replace("-", " ");
+
             fetch(url)
                 .then((r) => r.json())
                 .then((d) => {
