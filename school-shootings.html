@@ -11,8 +11,8 @@
     <!-- ref: https://docs.microsoft.com/en-us/bingmaps/v8-web-control/map-control-concepts/pushpins/pushpin-hover-style: -->
 
     <script type='text/javascript'>
-        function GetMap() {
-            var url = 'https://raw.githubusercontent.com/data2maps/data2maps.github.io/main/school-shootings.json';
+        function GetMap() {            
+            var url = new URL(window.location.href).pathname.split('/').pop().split('.')[0] + ".json";
             fetch(url)
                 .then((r) => r.json())
                 .then((d) => {
@@ -21,7 +21,7 @@
                     data = d;
 
                     for (var i = 0; i < data.length; i++) {
-                        console.log(i);
+                        //console.log(i);
                         locations.push(
                             {
                                 "location": new Microsoft.Maps.Location(data[i].LATITUDE, data[i].LONGITUDE),
